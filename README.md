@@ -25,4 +25,4 @@ Since this extension is in development (or if you are installing it locally), yo
 
 1. Download this repository as a ZIP file and extract it, or clone it using Git:
    ```bash
-   git clone [https://github.com/yourusername/zann-copy-extension.git](https://github.com/yourusername/zann-copy-extension.git)
+   git clone [https://github.com/Fauzanhandriansyah/zann-copy-extension.git](https://github.com/Fauzanhandriansyah/zann-copy-extension.git)

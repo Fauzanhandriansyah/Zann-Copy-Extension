@@ -15,7 +15,12 @@
 
 ## 📸 Screenshot
 
-*(You can add a screenshot or GIF here showing the extension in action. Example: `![Demo](assets/demo.gif)`)*
+Click Manage Extension Then, enable Developer mode; after that, click "Load unpacked" and select the "Zann Copy" folder.
+
+<img width="408" height="242" alt="image" src="https://github.com/user-attachments/assets/a3fc23c1-20de-4650-9e47-e2fc1f181bce" />
+
+<img width="391" height="302" alt="image" src="https://github.com/user-attachments/assets/7a661581-a7d4-4612-9877-89399d3c1a4e" />
+
 
 ## 🛠️ Installation
 
